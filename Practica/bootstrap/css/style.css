@@ -1,0 +1,127 @@
+body{
+	background :gray
+	color:red;
+	font-size: 16px;
+	
+	
+}
+
+section{
+	background-color:#008FFF;
+	height: 75px;
+	width: 100%;
+	margin-left: 1px;
+	margin-top: 1px;
+	overflow-x: hidden;
+	
+}
+
+#primer-boton{
+	background-color:#008FFF;
+	color: white;
+	width: 50px;
+	height: 10px;
+	border: none;
+	font-family: verdana;
+	font-size: 15px;
+	top: -25px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+
+#primer-boton:hover{
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+
+#logo{
+	height: 60px;
+	width: 130px;
+	margin-left: -1px;
+	margin-top: 5px;
+	
+}
+
+#primer-boton{
+	height: 50px;
+	width: 200px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+
+#cuerpo-mision{
+	background-color: #78246E;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	color: white;
+}
+
+#footer{
+	width: 100%;
+	height: 150px;
+	background-color: rgba(255,255,255,0);
+	margin-top: 70px;
+}
+
+#titulo-footer{
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	font-family: verdana;
+	margin-left:100px;
+}
+
+#img-footer{
+	width: 100px;
+	height: 100px;
+	margin left:300px;
+	display: block;
+}
+#cr{
+	margin-left: 90%;
+}
+#titulo1{
+	height: 10px;
+	width: 10px;
+	background-color: red;
+}
+#mi{
+	height:100px;
+	width: 150px;
+	margin-left: 5px; 
+}
+#temario{
+	margin-left:550px;
+	width: 100px;
+	height: 100px;
+}
+#prueba{
+	margin-left:510px;
+	width: 300px;
+	height: 300px;
+}
+#barraNavegacion{
+
+
+  background:linear-gradient(purple,red,white,red,purple);
+  position: fixed;
+  top:0;
+  bottom: 0;
+  left:0;
+  width: 300px;
+  border: 7px solid black;
+}
+section2{
+	background-color:#008FFF;
+	height: 75px;
+	width: 100%;
+	margin-left: 1px;
+	margin-top: 1px;
+	overflow-y: hidden;
+}
+#ad{
+	margin-left: -100px;
+}
